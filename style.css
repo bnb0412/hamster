@@ -1,0 +1,24 @@
+html body {
+	margin: 0
+}
+
+video { max-width: 150%; max-height: 150%;
+}
+
+source {
+	max-width: 150%; max-height: 150%;
+}
+
+#button {
+	position: relative;
+	top: 20px;
+	text-align: center;
+}
+
+#video { position: absolute; top: 50%; left: 50%;
+	transform: translateY(-50%) translateX(-50%);
+}
+
+body {
+	background-image: url(gangster.gif);
+}
