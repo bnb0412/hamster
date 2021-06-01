@@ -22,50 +22,5 @@ source {
 }
 
 body {
-	background-image: url(gangster.gif);
-}
-
-#ham1 {
-	position: absolute;
-	width: 60%;
-	top: 30px;
-	left: 20px;
-	z-index: 2;
-}
-
-#ham2 {
-	position: absolute;
-	width: 60%%;
-	top: 300px;
-	left: 450px;
-	z-index: 2;
-}
-
-#ham3 {
-	position: absolute;
-	width: 60%;
-	top: 10px;
-	left: 1000px;
-	z-index: 2;
-}
-
-#ham4 {
-	position: absolute;
-	width: 60%;
-	top: 400px;
-	left: 1200px;
-	z-index: 2;
-}
-
-#ham5 {
-	position: absolute;
-	width: 60%;
-	top: 250px;
-	left: 800px;
-	z-index: 2;
-}
-
-img {
-	width: 60%;
-	z-index: 2;
+	background-image: url(gangster.jpg);
 }
